@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Version8MK3.dir/main.c.o CMakeFiles/Version8MK3.dir/debug.c.o CMakeFiles/Version8MK3.dir/bigint/src/bigint.c.o CMakeFiles/Version8MK3.dir/bigint/tst/support.c.o -o Version8MK3   -L/home/student/CLionProjects/Version8MK3/bigint/build/lib  -Wl,-rpath,/home/student/CLionProjects/Version8MK3/bigint/build/lib -lbigint 

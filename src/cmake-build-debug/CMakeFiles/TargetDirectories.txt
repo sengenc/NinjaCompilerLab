@@ -1,0 +1,3 @@
+/home/student/CLionProjects/Version8MK3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/student/CLionProjects/Version8MK3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/student/CLionProjects/Version8MK3/cmake-build-debug/CMakeFiles/Version8MK3.dir
